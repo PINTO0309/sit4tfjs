@@ -2,7 +2,7 @@
 
 **Simple Inference Test for TensorFlow.js** - A benchmark tool for evaluating TensorFlow.js model performance
 
-[![PyPI](https://img.shields.io/pypi/v/sit4tfjs.svg)](https://pypi.org/project/sit4tfjs/) [![Python](https://img.shields.io/pypi/pyversions/sit4tfjs.svg)](https://pypi.org/project/sit4tfjs/) [![License](https://img.shields.io/pypi/l/sit4tfjs.svg)](https://github.com/PINTO0309/sit4tfjs/blob/main/LICENSE) [![Downloads](https://img.shields.io/pypi/dm/sit4tfjs.svg)](https://pypi.org/project/sit4tfjs/)
+[![PyPI](https://img.shields.io/pypi/v/sit4tfjs.svg)](https://pypi.org/project/sit4tfjs/) [![Python](https://img.shields.io/pypi/pyversions/sit4tfjs.svg)](https://pypi.org/project/sit4tfjs/) [![License](https://img.shields.io/pypi/l/sit4tfjs.svg)](https://github.com/PINTO0309/sit4tfjs/blob/main/LICENSE) [![Downloads](https://img.shields.io/pypi/dm/sit4tfjs.svg)](https://pypi.org/project/sit4tfjs/) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/PINTO0309/sit4tfjs)
 
 ## Overview
 
